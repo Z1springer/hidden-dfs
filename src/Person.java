@@ -5,7 +5,7 @@ public class Person {
   private String name;
   private int age;
   private Set<Person> confidants;
-  
+
   public Person(String name, int age, Set<Person> confidants) {
     this.name = name;
     this.age = age;
